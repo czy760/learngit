@@ -5,3 +5,8 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Study Git and Macen.
+public class test {
+   public static void mian(String[] args) {
+      System.out.println("learn git");
+   }
+}
